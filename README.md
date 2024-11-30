@@ -39,6 +39,10 @@
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=024" alt="Ethereum" width="40" height="40"/>
   <!-- HTML -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+   <!-- GitHub -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <!-- Prompt Engineering -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png" alt="Prompt Engineering" width="40" height="40"/>
   <!-- Add more icons as needed -->
 </p>
 
