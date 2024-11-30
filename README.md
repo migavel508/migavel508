@@ -5,7 +5,7 @@
 - 📫 How to reach me , i provide my email id, : aishwinmigavel@gmail.com
 
 ### Connect with me:
-[![LinkedIn](https://www.citypng.com/public/uploads/preview/hd-linkedin-blue-official-logo-png-701751694779201bpivk39ebc.png)](https://www.linkedin.com/in/migavel-d-8aab08257/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/migavel-d-8aab08257/)
 
 
 
