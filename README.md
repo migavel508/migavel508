@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on software industries...
 - 📫 How to reach me , i provide my email id, : aishwinmigavel@gmail.com
 
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/migavel-d-8aab08257/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/yourprofile)
+
+
 
 ### Languages and Tools:
 <p align="left">
