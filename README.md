@@ -42,7 +42,7 @@
    <!-- GitHub -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <!-- Prompt Engineering -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png" alt="Prompt Engineering" width="40" height="40"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/021/059/825/non_2x/chatgpt-logo-chat-gpt-icon-on-green-background-free-vector.jpg" alt="Prompt Engineering" width="40" height="40"/>
   <!-- Add more icons as needed -->
 </p>
 
