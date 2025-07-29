@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on software industries...
 - 📫 How to reach me , i provide my email id, : aishwinmigavel@gmail.com
 
+Watch my TedX video ♥️ : https://youtu.be/JC7biM2tyJA?si=ueG7XK0N3KHkVxQO
+
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/migavel-d-8aab08257/)
 
